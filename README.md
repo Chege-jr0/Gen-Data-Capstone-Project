@@ -1,23 +1,21 @@
 # Gen-Data-Capstone-Project
 
-# 💥 Analyzing Economic Crises Across Africa (1870–2014)
+# 💥 Analyzing African Debt Trends and Financial Crises (2000–2024)
 # 🧠 Overview
 
-This project explores the history and patterns of economic crises across African countries from 1870 to 2014, focusing on banking, currency, inflation, and systemic crises.
-
-Using data from the African Crises Dataset, the analysis investigates how these events correlate with macroeconomic indicators such as GDP, exchange rates, and inflation, providing insights into Africa’s financial resilience and vulnerability.
+This project examines government debt issuance trends across all 54 African countries from 2000 to 2024, with a focus on the post-2015 surge in domestic borrowing and its links to historical financial crises(1870-2014). Using the African Debt Database from the Kiel Institute as the core dataset, we extend analysis from the classic African Crises Dataset(Reinhart and Rogoff-inspired) to explore how rising debt correlates with risks of banking, currency, infalation and currency crises.
 
 # 🎯 Objectives
 
-To identify trends in economic crises across African nations and time periods.
+To identify debt issuance patterns(total, domestic/external) across countries and years.
 
-To examine the correlation between crisis occurrences and key macroeconomic indicators.
+Correlate debt trends with crisis indicators i.e inflation rates and debt defaults from historical data
 
-To apply regression analysis to estimate the likelihood of a crisis given specific economic conditions.
+To apply SQL aggregations to prepare regression-ready datasets.
 
-To visualize patterns of crises through SQL queries, and Tableau dashboards.
-
+To visualize patterns and trends through Tableau dashboards.
 # 📦 Data Sources
+African Debt Database(2000-2024) -- Quartely records on issuance flows, creditors, and instruments.
 
 African Crises Dataset (1870–2014) — compiled from historical financial data in Kaggle Website.
 
@@ -26,7 +24,7 @@ World Bank — supplementary GDP and inflation indicators using their API.
 IMF Databases — for cross-checking economic context (where applicable)
 
 # 🧰 Tech Stack                   
-Language =>	SQL
+Language =>	SQL, BigQuery
 Data Analysis =>	Pandas, NumPy
 Visualization	=> Tableau
 Environment	Jupyter Notebook and MySQL Workbench 
