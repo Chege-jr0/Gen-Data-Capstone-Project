@@ -11,7 +11,7 @@ To identify debt issuance patterns(total, domestic/external) across countries an
 
 Correlate debt trends with crisis indicators i.e inflation rates and debt defaults from historical data
 
-To apply SQL aggregations to prepare regression-ready datasets.
+To apply SQL aggregations to visualize charts.
 
 To visualize patterns and trends through Tableau dashboards.
 # 📦 Data Sources
@@ -45,22 +45,10 @@ Handling Missing Values
 
 Filled or removed missing records using SQL WHERE and Excel filters.
 
-Ensured numerical consistency for regression-ready data.
+Ensured numerical consistency for clean data to visualize with Tableau.
 
 # 📈 Analysis Performed
-1. Trend Analysis
 
-Frequency of crises per country and decade.
-
-Regional comparison of systemic vs. isolated crises.
-
-2. Correlation Analysis
-
-Explored relationships between GDP, inflation, and crisis frequency.
-
-3. Visualization
-
-Create  Tableau DashBoard for Visualisation
 
 
 # 👨‍💻 Author
