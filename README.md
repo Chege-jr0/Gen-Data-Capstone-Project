@@ -47,10 +47,6 @@ Filled or removed missing records using SQL WHERE and Excel filters.
 
 Ensured numerical consistency for clean data to visualize with Tableau.
 
-# 📈 Analysis Performed
-
-
-
 # 👨‍💻 Author
 
 Paul Gikonyo
