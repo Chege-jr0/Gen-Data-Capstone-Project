@@ -1,6 +1,6 @@
 # Gen-Data-Capstone-Project
 
-# 💥 Analyzing African Debt Trends and Financial Crises (2000–2024)
+# 💥 Analyzing African Debt Trends and Financial Crises (2000–2014)
 # 🧠 Overview
 
 This project examines government debt issuance trends across all 54 African countries from 2000 to 2024, with a focus on the post-2015 surge in domestic borrowing and its links to historical financial crises(1870-2014). Using the African Debt Database from the Kiel Institute as the core dataset, we extend analysis from the classic African Crises Dataset(Reinhart and Rogoff-inspired) to explore how rising debt correlates with risks of banking, currency, infalation and currency crises.
