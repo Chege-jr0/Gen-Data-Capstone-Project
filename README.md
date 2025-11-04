@@ -163,7 +163,7 @@ pandas>=1.5.0
 numpy>=1.23.0
 jupyter>=1.0.0
 
-# Database
+# Database(Optional)
 MySQL 8.0+
 
 # Visualization
