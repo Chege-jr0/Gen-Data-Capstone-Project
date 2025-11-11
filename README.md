@@ -4,6 +4,12 @@
 
 This project examines the relationship between government debt issuance and financial crises across 13 African countries from 2000 to 2014. By integrating historical crisis data with contemporary debt records, we analyze patterns and correlations between debt accumulation and various types of financial crises including banking, currency, inflation, and systemic crises.
 
+Website Link: https://africa-debtwatch.lovable.app
+
+Tableau Dashboard Link: https://public.tableau.com/app/profile/paul.gikonyo/viz/AfricanDebtFinancial_Crises_Book/MAINDashboard
+
+Technical Article: https://medium.com/@paulgikonyo100/analyzing-african-debt-and-financial-crises-2000-2014-ad039763eed5
+
 ---
 
 ## 🎯 Objectives
